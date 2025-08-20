@@ -6,7 +6,7 @@ export const siteConfig: SiteConfig = {
     "A phone input component implementation of Shadcn's input component",
   url: "https://shadcn-phone-input.vercel.app",
   links: {
-    twitter: "https://twitter.com/omer_alpi",
+    twitter: "https://twitter.com/omeralpi_",
     github: "https://github.com/omeralpi/shadcn-phone-input",
   },
 };
